@@ -1,0 +1,4 @@
+openmp
+======
+
+openmp_example
